@@ -1,0 +1,8 @@
+https://developer.garmin.com/connect-iq/api-docs/
+https://forums.garmin.com/forum/developers
+file:///D:/Garmin/programming/connectiq-sdk-win-2.3.5/ProgrammersGuide.html
+http://blog.aaronboman.com/programming/connectiq/2014/11/11/making-an-analog-watch-face/
+https://developer.garmin.com/index.php/blog/post/connect-iq-pro-tip-custom-fonts-tricks
+https://www.dafont.com/
+https://apps.garmin.com/en-US/developer/upload
+https://apps.garmin.com/en-US/developer/65393b92-794c-443e-94a2-baa01a01d54b/apps
